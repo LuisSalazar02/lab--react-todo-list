@@ -1,4 +1,4 @@
-# Lab React Todo List
+# Lab - React Todo List
 
 ## Objectives
   * Apply event listeners in React.
