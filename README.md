@@ -45,3 +45,9 @@ A hint on implementation:
 
 
   - [live demo of adventure mode](https://arcane-wildwood-43309.herokuapp.com/#adventure-mode)
+
+## Keys to Success
+
++ You’ll need to learn about [`refs`](https://reactjs.org/docs/refs-and-the-dom.html) to get the value from `input` element.
++ Each new To Do should be an object (because of _description_ and _done?_ properties) and you should add it to a “list of todos”.
++ All you need to do is **React State** to add/delete ToDos.
