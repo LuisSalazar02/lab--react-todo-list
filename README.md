@@ -51,3 +51,4 @@ A hint on implementation:
 + You’ll need to learn about [`refs`](https://reactjs.org/docs/refs-and-the-dom.html) to get the value from `input` element.
 + Each new To Do should be an object (because of _description_ and _done?_ properties) and you should add it to a “list of todos”.
 + All you need is **React State**, to add/delete ToDos.
++ Please, read about [`.filter`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) method from Array, maybe you’ll need it.
